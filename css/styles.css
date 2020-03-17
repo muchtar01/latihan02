@@ -1,0 +1,43 @@
+body {
+    background-color: #a1e6e3;
+
+}
+
+td {
+    padding-right: 20px;
+    text-align: left;
+    padding-bottom: 20px;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-top-color: grey;
+    background-color: none;
+    width: 15%;
+    border-width: 8px;
+    padding: 20px;
+}
+
+strong {
+    color: #66BFBF;
+    padding-bottom: 10px;
+}
+
+h1 {
+    color: #66BFBF;
+}
+
+h3 {
+    color: #66BFBF;
+}
+
+h4 {
+    color: #66BFBF;
+}
+
+.link {font-size: 25px;
+}
+.alamat {
+    margin-right: 20px;
+}
